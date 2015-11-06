@@ -1,0 +1,14 @@
+TestPlan
+===============
+For D level I tested using the make file that you gave us. 
+I tested it and knew it was correct when it returned the html
+file back to me. 
+
+For C level I tested by adding URLGraph to the makefile
+and adding a line to call BFS from the URLGraph. I could
+never really figure out if BFS did what I needed it to becasue 
+I couldn't figure out how to output the URLs.
+
+For a little bit of B Level I tested it the same way I did C Level. This 
+time I had a cout to tell me if the target was found or not. I tried it 
+with www.xavier.edu as my target and www.xavier.edu as my url and it returned target was found. In addition, when I made my target www.isitchristmas.com and made my url www.xavier.edu it returned target not found.
